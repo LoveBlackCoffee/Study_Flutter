@@ -1,6 +1,6 @@
 # helloworld
 
-A new Flutter project.
+Flutterのチュートリアルを実施
 
 ## Getting Started
 
